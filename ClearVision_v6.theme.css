@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://github.com/Dutaopticruise/Duta/assets/143787704/df75f0e3-1e93-4515-911d-7632043a9df1); /* app background image (link must be HTTPS) [default: url(https://github.com/Dutaopticruise/Duta/assets/143787704/df75f0e3-1e93-4515-911d-7632043a9df1)]*/
+  --background-image: url(https://i.postimg.cc/SKW1bwqM/F4dqs-G6ag-AAp4-IE.jpg); /* app background image (link must be HTTPS) [default: url(https://i.postimg.cc/SKW1bwqM/F4dqs-G6ag-AAp4-IE.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
